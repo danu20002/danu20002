@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **iamdaneshnaik@gmail.com**
 
-- ⚡ Fun fact **I am always funny**
+- ⚡ Fun fact **I am always funny😂🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
