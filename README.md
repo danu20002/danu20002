@@ -1,7 +1,7 @@
 
 ![andi](https://user-images.githubusercontent.com/99582894/223039787-84c9cd79-b51e-4d47-a789-91105b8250db.gif)
 <h1 align="center">Hi 👋, I'm Danesh</h1>
-<h3 align="center">I love coding . I can't imagine my day without coding and pressing RUN button..I love gaming.</h3>
+<h3 align="center">I love coding . I can't imagine my day without coding and pressing RUN button..I love gaming.g</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danu20002&label=Profile%20views&color=0e75b6&style=flat" alt="danu20002" /> </p>
 
@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/danesh200002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danesh200002" height="30" width="40" /></a>
-<a href="linkedin.com/in/danesh-naik-74852a1b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/danesh-naik-74852a1b4/](https://www.linkedin.com/in/danesh-naik-74852a1b4/)" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/danesh-naik-74852a1b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/danesh-naik-74852a1b4" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/danu.naik.505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/danu.naik.505" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/danu_0002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/danu_0002/" height="30" width="40" /></a>
 </p>
