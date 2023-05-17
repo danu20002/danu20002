@@ -1,4 +1,4 @@
-#DANESH NAIK
+<h1 style="text-align:center;">DANESH NAIK</h1>
 ![andi](https://user-images.githubusercontent.com/99582894/223039787-84c9cd79-b51e-4d47-a789-91105b8250db.gif)
 # 💫 About Me:
 I love coding, gaming, <br>watching anime,<br> interested in Geopolitics,<br> exploring online things ,<br> addicted to music .
