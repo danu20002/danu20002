@@ -23,8 +23,7 @@ I love coding, gaming, <br>watching anime,<br> interested in Geopolitics,<br> ex
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=danu20002&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=danu20002&icon=1&color=0)](https://visitcount.itsvg.in)
