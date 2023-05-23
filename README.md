@@ -1,7 +1,7 @@
 
 ![andi](https://user-images.githubusercontent.com/99582894/223039787-84c9cd79-b51e-4d47-a789-91105b8250db.gif)
 <h1 align="center">Hi 👋, I'm Danesh Naik</h1>
-<h3 align="center">I don't assume my day without clicking on Run Button, Good in Gaming, Collaborative, I don't wanted sleep until the taken work is DONE.</h3>
+<h3 align="center">I don't assume my day without clicking on Run Button, Good in Gaming, Collaborative, I don't wanted to sleep until the taken work is DONE.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danu20002&label=Profile%20views&color=0e75b6&style=flat" alt="danu20002" /> </p>
 
