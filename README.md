@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **naikdanesh2@gmail.com**
 
-- ⚡ Fun fact **Yes I am Funny**
+- ⚡ Fun fact **Yes spend just 1 hour with me **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
