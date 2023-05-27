@@ -1,4 +1,5 @@
-![andi](https://user-images.githubusercontent.com/99582894/223039787-84c9cd79-b51e-4d47-a789-91105b8250db.gif)
+
+![andi](https://user-images.githubusercontent.com/26146907/193597966-b9fab9ac-5f43-4aa2-b43d-0bb3a9d10955.gif)
 <h1 align="center">Hi 👋, I'm Danesh Naik</h1>
 <h3 align="center">A Passionate Application Developer from India.</h3>
 
