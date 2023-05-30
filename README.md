@@ -1,8 +1,13 @@
 
-![andi](https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif)
+ 
+
+
 <h1 align="center">Hi 👋, I'm Danesh Naik</h1>
 <h3 align="center">A Passionate Application Developer from India.</h3>
-
+  <div>
+<img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="350px" width ="350px" align="left">
+  <div style="padding-top:1000px; padding-left:500px">
+ </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danu20002&label=Profile%20views&color=0e75b6&style=flat" alt="danu20002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danu20002" alt="danu20002" /></a> </p>
