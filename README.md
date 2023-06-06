@@ -1,4 +1,7 @@
- 
+  <p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="C:\Users\lenovo\Downloads\danesh naime.png""" alt="Jonah Lawrence" /></a>
+</p>                                                         
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
   𝐇𝐞𝐥𝐥𝐨, &ltGeeks/&gt;!
