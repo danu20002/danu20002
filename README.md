@@ -3,14 +3,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Danesh Naik</h1>
-<h3 align="center">A Passionate Application Developer from India.</h3>
+<h3 align="center">Skilled Programmer an.</h3>
   <div>
-<img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="350px" width ="350px" align="left">
+<img src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif"  align="center">
   <div style="padding-top:1000px; padding-left:500px">
  </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danu20002&label=Profile%20views&color=0e75b6&style=flat" alt="danu20002" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danu20002" alt="danu20002" /></a> </p>
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=danu20002&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <p align="left"> <a href="https://twitter.com/danesh200002" target="blank"><img src="https://img.shields.io/twitter/follow/danesh200002?logo=twitter&style=for-the-badge" alt="danesh200002" /></a> </p>
 
@@ -46,6 +46,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danu20002&show_icons=true&locale=en" alt="danu20002" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danu20002&" alt="danu20002" /></p>
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+
+<p align="center">
+  <img height="150" width="150" src="WEBP/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danu20002&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="WEBP/right.webp">
+</p>
 
 
