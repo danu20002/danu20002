@@ -27,7 +27,7 @@
 - 📄 Know about my experiences [RESUME LINK](https://drive.google.com/file/d/1wqgZegzYmg0T_SMROMNoqxkShAlHGYTs/view?usp=share_link)
 
 - ⚡ Fun fact **" Mangekyo Sheringone"**
-
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=danu20002&theme=react-dark&hide_border=true" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/danu20002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/danu20002" height="30" width="40" /></a>
