@@ -1,4 +1,6 @@
-  <p align="center">
+
+ 
+ <p align="center">
   <a href="https://github.com/DenverCoder1">
     <img src="https://github.com/danu20002/danu20002/blob/main/images/coollogo_com-14702384.png" alt="Danesh Naik" /></a>
 </p>                                                         
@@ -27,9 +29,7 @@
 <img src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif"  align="center">
   <div style="padding-top:1000px; padding-left:500px">
  </div>
-  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=danu20002&label=Profile%20views&color=0e75b6&style=flat" alt="danu20002" /> </p>
-
+ 
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=danu20002&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 
