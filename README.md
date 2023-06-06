@@ -26,7 +26,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wqgZegzYmg0T_SMROMNoqxkShAlHGYTs/view?usp=share_link](https://drive.google.com/file/d/1wqgZegzYmg0T_SMROMNoqxkShAlHGYTs/view?usp=share_link)
 
-- ⚡ Fun fact **"Sheringone"**
+- ⚡ Fun fact **" Mangekyo Sheringone"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
