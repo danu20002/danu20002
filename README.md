@@ -1,6 +1,6 @@
   <p align="center">
   <a href="https://github.com/DenverCoder1">
-    <img src="C:\Users\lenovo\Downloads\danesh naime.png""" alt="Jonah Lawrence" /></a>
+    <img src="https://github.com/danu20002/danu20002/blob/main/images/coollogo_com-14702384.png" alt="Danesh Naik" /></a>
 </p>                                                         
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
