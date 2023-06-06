@@ -1,5 +1,5 @@
 
- 
+</h1>
  <p align="center">
   <a href="https://github.com/DenverCoder1">
     <img src="https://github.com/danu20002/danu20002/blob/main/images/coollogo_com-14702384.png" alt="Danesh Naik" /></a>
@@ -88,4 +88,7 @@
   <img height="150" width="150" src="WEBP/right.webp">
 </p>
 
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Bye,+👋;Have+A+Good+Day;Nice+to+meet+you!&center=true&size=30">
+  </a>
