@@ -1,9 +1,16 @@
 
- 
-
-
 <h1 align="center">Hi 👋, I'm Danesh Naik</h1>
-<h3 align="center">Skilled Programmer an.</h3>
+<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
+
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 AND [clgBuddy APP](https://play.google.com/store/apps/details?id=com.daneshnaik.chatbot).**
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Javascript and its Libraries.**
+- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙰𝚗𝚍𝚛𝚘𝚒𝚍, AND 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/danu20002/danu20002/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Developer Don't use Stack overflow***
+-  📄 Know about my experiences [RESUME LINK](https://drive.google.com/file/d/1wqgZegzYmg0T_SMROMNoqxkShAlHGYTs/view?usp=share_link)
+-  📫 How to reach me **naikdanesh2@gmail.com**
+
   <div>
 <img src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif"  align="center">
   <div style="padding-top:1000px; padding-left:500px">
@@ -14,19 +21,6 @@
 
 <p align="left"> <a href="https://twitter.com/danesh200002" target="blank"><img src="https://img.shields.io/twitter/follow/danesh200002?logo=twitter&style=for-the-badge" alt="danesh200002" /></a> </p>
 
-- 🔭 I’m currently working on [clgBuddy](https://play.google.com/store/apps/details?id=com.daneshnaik.chatbot)
-
-- 🌱 I’m currently learning **Html,Css,Javascript**
-
-- 👨‍💻 All of my projects are available at [GITHUB HERE BELOW](https://github.com/danu20002)
-
-- 💬 Ask me about **Java,Mysql,Android,Firebase**
-
-- 📫 How to reach me **naikdanesh2@gmail.com**
-
-- 📄 Know about my experiences [RESUME LINK](https://drive.google.com/file/d/1wqgZegzYmg0T_SMROMNoqxkShAlHGYTs/view?usp=share_link)
-
-- ⚡ Fun fact **" Mangekyo Sheringone"**
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danu20002&theme=react-dark&hide_border=true" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
