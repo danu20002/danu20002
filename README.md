@@ -92,6 +92,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danu20002&theme=dark&hide_border=true"/>
   <img height="150" width="150" src="WEBP/right.webp">
 </p>
+<img align="center" height="195px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
