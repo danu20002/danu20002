@@ -69,7 +69,7 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
  
 <!--  ![](https://github-profile-trophy.vercel.app/?username=danu20002&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=danu20002&column=9&margin-w=25&margin-h=25&no-bg=true&no-frame=true&theme=juicyfresh)
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=danu20002&column=7&margin-w=25&margin-h=25&no-bg=true&no-frame=true&theme=juicyfresh)
  
 <details open="">
 <summary>
