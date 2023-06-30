@@ -59,6 +59,13 @@
 <a href="https://fb.com/danu.naik.505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="danu.naik.505" height="30" width="40" /></a>
 <a href="https://instagram.com/danu_0002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danu_0002" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/8FAKbgGrdS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/8FAKbgGrdS" height="30" width="40" /></a>
+
+
+<a href="https://www.codechef.com/users/daneshnaik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="daneshnaik" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@naikdanesh2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@naikdanesh2" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/daneshnaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="daneshnaik" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/iamdaneshnaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamdaneshnaik" height="30" width="40" /></a>
+
 </p>
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
