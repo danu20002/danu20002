@@ -64,7 +64,7 @@
 <a href="https://www.codechef.com/users/daneshnaik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="daneshnaik" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@naikdanesh2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@naikdanesh2" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/daneshnaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="daneshnaik" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/iamdaneshnaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamdaneshnaik" height="30" width="40" /></a>
+<a  style="background_color✅" href="https://www.leetcode.com/iamdaneshnaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamdaneshnaik" height="30" width="40" /></a>
 
 </p>
 
