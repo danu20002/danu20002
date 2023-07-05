@@ -33,7 +33,7 @@
 -  📫 How to reach me **naikdanesh2@gmail.com**
 
   <div>
-<img src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif"  align="center">
+
   <div style="padding-top:1000px; padding-left:500px">
  </div>
  
