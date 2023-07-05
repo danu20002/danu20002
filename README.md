@@ -29,7 +29,7 @@
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://www.linkedin.com/in/danesh-naik-74852a1b4/) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Developer Don't use Stack overflow***
--  📄 Know about my experiences [RESUME LINK](https://drive.google.com/file/d/1wqgZegzYmg0T_SMROMNoqxkShAlHGYTs/view?usp=share_link)
+-  📄 Know about my experiences [RESUME LINK](https://flowcv.com/resume/q0s6bi7iq1)
 -  📫 How to reach me **naikdanesh2@gmail.com**
 
   <div>
