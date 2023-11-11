@@ -160,5 +160,7 @@
 <img align="right" height="250" width="400" alt="GIF" src="https://media.tenor.com/Y4hwOH8mE2QAAAAd/luffy-wano.gif"/>
 <img align="right" height="250" width="400" alt="GIF" src="https://media.tenor.com/cOhgxKZrGqQAAAAC/zoro-one-piece.gif"/>
 <img align="right" height="250" width="400" alt="GIF" src="https://media.tenor.com/E4bg8U0pKvwAAAAC/itachi-uchiha-red.gif"/>
+<img align="right" height="250" width="400" alt="GIF" src="https://media.tenor.com/7hUQDl1aIAgAAAAC/the-kingdoms-of-ruin-adonis.gif"/>
+
 
 </div>
