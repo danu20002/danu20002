@@ -6,7 +6,7 @@
 </h1>
  <p align="center">
   <a href="https://github.com/DenverCoder1">
-    <img src="https://github.com/danu20002/danu20002/blob/main/images/coollogo_com-14702384.png" alt="Danesh Naik" /></a>
+    <img src="https://cdn.statically.io/img/timelinecovers.pro/facebook-cover/download/anime-your-name-love-facebook-cover.jpg" alt="Danesh Naik" /></a>
 </p>                                                         
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
