@@ -160,7 +160,9 @@
 <img align="right" height="250" width="400" alt="GIF" src="https://media.tenor.com/Y4hwOH8mE2QAAAAd/luffy-wano.gif"/>
 <img align="right" height="250" width="400" alt="GIF" src="https://media.tenor.com/cOhgxKZrGqQAAAAC/zoro-one-piece.gif"/>
 <img align="right" height="250" width="400" alt="GIF" src="https://i.pinimg.com/originals/9b/2f/89/9b2f8930b1bd7f5695c403fe973d656e.gif"/>
-<img align="right" height="250" width="400" alt="GIF" src="https://i.kym-cdn.com/photos/images/original/002/619/265/ba3.gif"/>
+<img align="right" height="250" width="400" alt="GIF" src="https://media1.tenor.com/images/91b8cb37cedc232973e7caf3fd659311/tenor.gif?itemid=19188492"/>
+<img align="right" height="250" width="400" alt="GIF" src="https://i.pinimg.com/originals/b8/37/ac/b837aca36f5decaefc52ff0ca2d17717.gif"/>
+<img align="right" height="250" width="400" alt="GIF" src="https://vignette.wikia.nocookie.net/epicrapbattlesofhistory/images/d/d0/Death-Note-Gif-Light-Yagami-Kira-Evil-Laugh-The-Last-Episode.gif/revision/latest?cb=20180908073246"/>
 
 
 </div>
