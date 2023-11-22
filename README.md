@@ -111,6 +111,9 @@
   <a href="https://dev.to/danu20002" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
   </a>
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="danesh-naik-74852a1b4" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/danesh-naik-74852a1b4?trk=profile-badge">Danesh Naik</a></div>
+              
 </div>
 
 
