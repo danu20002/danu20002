@@ -79,7 +79,8 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="c logo"  />
 </div>
- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="danesh-naik-74852a1b4" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/danesh-naik-74852a1b4?trk=profile-badge">Danesh Naik</a></div>
+
+              
               
 <h3 align="left">Connect with me:</h3>
 <div align="left">
