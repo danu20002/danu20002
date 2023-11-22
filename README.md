@@ -1,4 +1,5 @@
 
+              
 <!-- stackoverflow -->
 <!-- <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=20806167&textfill=black&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
@@ -78,7 +79,8 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="c logo"  />
 </div>
- 
+ <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="danesh-naik-74852a1b4" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/danesh-naik-74852a1b4?trk=profile-badge">Danesh Naik</a></div>
+              
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://www.instagram.com/danu_0002/" target="_blank">
@@ -138,6 +140,7 @@
 
 
 
+              
 
 
 
