@@ -161,8 +161,10 @@
   </a>
 <p><a href="https://www.buymeacoffee.com/daneshnaik7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="daneshnaik7" /></a></p><br><br>
 
-
-<!--<div align="left">
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danu20002&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danu20002&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danu20002&theme=dark)
+<div align="left">
 
 <img align="right" height="250" width="400" alt="GIF" src="https://media.tenor.com/Y4hwOH8mE2QAAAAd/luffy-wano.gif"/>
 <img align="right" height="250" width="400" alt="GIF" src="https://media.tenor.com/cOhgxKZrGqQAAAAC/zoro-one-piece.gif"/>
