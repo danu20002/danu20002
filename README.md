@@ -1,5 +1,7 @@
 
-              
+   <head>
+      <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+   </head>           
 <!-- stackoverflow -->
 <!-- <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=20806167&textfill=black&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
@@ -111,7 +113,8 @@
   <a href="https://dev.to/danu20002" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
   </a>
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  
+ 
   <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="danesh-naik-74852a1b4" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/danesh-naik-74852a1b4?trk=profile-badge">Danesh Naik</a></div>
               
 </div>
