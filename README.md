@@ -157,7 +157,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+👋;Have+A+Good+Day;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+👋;Have+A+Good+Day+ahead;Nice+to+meet+you!&center=true&size=30">
   </a>
 <p><a href="https://www.buymeacoffee.com/daneshnaik7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="daneshnaik7" /></a></p><br><br>
 
