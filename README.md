@@ -6,7 +6,7 @@
 </a> -->
 </h1>
  <p align="center">
-  <a href="https://github.com/DenverCoder1">
+  <a href="https://github.com/danu20002">
     <img src="https://cdn.statically.io/img/timelinecovers.pro/facebook-cover/download/anime-your-name-love-facebook-cover.jpg" alt="Danesh Naik" /></a>
 </p>                                                         
 <h1 align="center">
